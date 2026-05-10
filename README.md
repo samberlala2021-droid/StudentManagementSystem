@@ -6,7 +6,7 @@ Final Project - C++ Programming
 - Aing HangPhinh
 - Oeng Sitong
 - SREOU KIMPHENG
-- [Member 5]
+- SRIN PISETH
 - [Member 6]
 
 ## Features
