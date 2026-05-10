@@ -1,5 +1,5 @@
-cmake_minimum_required(VERSION 3.14)
-project(ExcelTableApp)
+cmake_minimum_required(VERSION 3.14...4.3)
+project(StudentManagementSystem)
 
 set(CMAKE_CXX_STANDARD 17)
 
@@ -22,7 +22,7 @@ FetchContent_Declare(
 FetchContent_MakeAvailable(tabulate)
 
 # Add your main.cpp or other source files
-add_executable(ExcelTableApp main.cpp)
+add_executable(StudentManagementSystem Main.cpp)
 
 # Link libraries
-target_link_libraries(ExcelTableApp PRIVATE xlnt tabulate)
+target_link_libraries(StudentManagementSystem PRIVATE xlnt tabulate)
