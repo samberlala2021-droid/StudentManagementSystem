@@ -2,7 +2,7 @@
 Final Project - C++ Programming
 
 ## Group Members
-- SamBat SamBer
+- SamBat SamBer(Group Leader)
 - Aing Hangphinh
 - Oeng Sitong
 - [Member 4]
