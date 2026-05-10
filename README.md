@@ -7,7 +7,7 @@ Final Project - C++ Programming
 - Oeng Sitong
 - SREOU KIMPHENG
 - SRIN PISETH
-- [Member 6]
+- OUCH SOVANNAREACH
 
 ## Features
 - Login system (Admin & Normal User)
